@@ -41,6 +41,7 @@
 
 ### 🎓 Education
 <p>서울대학교 철학과 심화전공  |  2020.03 ~ </p>
+<p>용화여자고등학교 | 2013.03 ~ 2016.02</p>
 
 
     
@@ -54,7 +55,7 @@
 
 [website]: http://febseo.dothome.co.kr
 [youtube]: https://www.youtube.com/watch?v=64J_L24nSQQ
-[instagram]: https://www.youtube.com/watch?v=64J_L24nSQQ  
+[instagram]: https://www.instagram.com/
 
 <br><br><br><br><br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
