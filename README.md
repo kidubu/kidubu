@@ -47,22 +47,22 @@
     
 <br>
 
-### ♾️ Connect with me
+### ♾️ About Me
 
 [<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
 [<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
 [<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
 
 [website]: http://febseo.dothome.co.kr
-[youtube]: https://www.youtube.com/watch?v=64J_L24nSQQ
+[youtube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com/
 
 <br><br><br><br><br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=febseo&show_icons=true&locale=en" alt="febseo" />
+![Jihye's GitHub stats](https://github-readme-stats.vercel.app/api?username=kidubu&show_icons=true&theme=radical)
 
 <br>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=febseo)](https://solved.ac/febseo)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=kidubu)](https://solved.ac/febseo)
